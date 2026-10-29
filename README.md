@@ -70,7 +70,7 @@ Insira os valores das três últimas vendas quando solicitado pelo terminal. Se 
 
 ## 💻 Acesse o Projeto
 
-🐍 **[Visualizar código-fonte (py.py)](py.py)**
+🐍 **[Visualizar código-fonte (main.py)](main.py)**
 
 ## 👨‍💻 Autor
 
